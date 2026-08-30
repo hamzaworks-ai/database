@@ -162,4 +162,6 @@ SELECT `book_id`, `tag_id` FROM `book_tag` WHERE (`book_tag`.`book_id` IN (1, 4,
 SELECT `id`, `name` FROM `tag` WHERE (`tag`.`id` IN (21, 22, 23))
 ```
 
-[Continue…](https://doc.nette.org/database-explorer).
+
+Now this is editing by Me 
+
